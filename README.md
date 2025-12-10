@@ -38,11 +38,20 @@
 
 ###
 
-<div align="left">
-  <a href="https://discord.com/users/1063538352638394460" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a> <p align="left">I'm Santiago Ortega from Colombia and I live to code 💻</p>
-  
-</div> 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="middle">
+        <p style="margin:0">I'm <strong>Santiago Ortega</strong> from Colombia and I live to code 💻</p>
+      </td>
+      <td align="left" valign="middle" style="padding-left:12px;">
+        <a href="https://discord.com/users/1063538352638394460" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+          <span>@santiagortega</span>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ###
