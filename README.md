@@ -48,7 +48,6 @@
         </a>
       </td>
       <td align="left" valign="middle">
-        <a href="https://discord.com/users/1063538352638394460" target="_blank" style="text-decoration:none;">
           <span style="font-size:20px; line-height:48px; font-weight:600;">
             @santiagortega
           </span>
