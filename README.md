@@ -39,19 +39,15 @@
 ###
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" valign="middle">
-        <p style="margin:0">I'm <strong>Santiago Ortega</strong> from Colombia and I live to code 💻</p>
-      </td>
-      <td align="left" valign="middle" style="padding-left:12px;">
-        <a href="https://discord.com/users/1063538352638394460" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-          <span>@santiagortega</span>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://discord.com/users/1063538352638394460" target="_blank"
+     style="display:inline-flex; align-items:center; gap:10px; text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
+         width="48" height="48" alt="discord logo" style="display:block;" />
+    <span style="font-size:20px; line-height:48px; font-weight:600;">
+      @santiagortega
+    </span>
+  </a>
 </div>
+
 
 ###
