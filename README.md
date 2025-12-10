@@ -39,15 +39,25 @@
 ###
 
 <div align="center">
-  <a href="https://discord.com/users/1063538352638394460" target="_blank"
-     style="display:inline-flex; align-items:center; gap:10px; text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
-         width="48" height="48" alt="discord logo" style="display:block;" />
-    <span style="font-size:20px; line-height:48px; font-weight:600;">
-      @santiagortega
-    </span>
-  </a>
+  <table>
+    <tr>
+      <td align="center" valign="middle" style="padding-right:10px;">
+        <a href="https://discord.com/users/1063538352638394460" target="_blank" style="text-decoration:none;">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
+               width="48" height="48" alt="discord logo" style="vertical-align:middle;" />
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <a href="https://discord.com/users/1063538352638394460" target="_blank" style="text-decoration:none;">
+          <span style="font-size:20px; line-height:48px; font-weight:600;">
+            @santiagortega
+          </span>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 ###
